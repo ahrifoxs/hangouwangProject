@@ -1,0 +1,314 @@
+
+#main{
+	width: 1200px;
+	margin: 0 auto;
+}
+
+#top{
+	height: 135px;
+	background: #fff;
+	border-bottom: 1px solid #f5f5f5;
+	position: relative;
+}
+
+#logo{
+	display: block;
+	margin-top: 26px;
+	float: left;
+}
+
+#logo img{
+	display: inline-block;
+}
+
+
+#top-right{
+	height: 41px;
+	font-size:14px ;
+	color: #aaa;
+	float:right;
+	margin-top: 50px;
+}
+
+#top-right span{
+	float: left;
+}
+
+#top-right span:nth-child(1){
+	margin-right: 10px;
+	display: block;
+}
+
+#top-right span img{
+	width: 41px;
+	height: 41px;
+	border-radius: 50%;
+	
+}
+
+#top-right a{
+	font-weight: 600;
+	margin-left: 4px;
+	color: #0066cc;
+
+}
+
+/*************************top end***********************************/
+
+#zhucearea{
+	width: 100%;
+	height: 578px;
+	background: url(../images/denglu/3.jpg) no-repeat 185px 110px;
+	overflow: hidden;
+	border-bottom: 1px solid #f5f5f5 ;
+	position: relative;
+}
+
+#arrow{
+	background: url(../images/jingling/login_pic.png) no-repeat -280px 0;
+	width: 17px;
+	height: 9px;
+	position: absolute;
+	z-index: 1;
+	top: 52px;
+	left: 1050px;
+}
+
+
+#box{
+	width: 440px;
+	height: 334px;
+	padding: 19px 19px 29px 19px;	
+	background: #fff;
+	border: 1px solid #E6E6E6;
+	border-radius: 5px;
+	float: right;
+	position: relative;
+	top: 60px;
+	right: 100px;
+}
+
+.tab-nav{
+	width: 440px;
+	height: 40px;
+	border-bottom: 1px solid #e6e6e6;
+}
+
+.tab-nav li{
+	width: 135px;
+	padding-left: 15px;
+	border-bottom: 3px solid #f32613;
+	float: left;
+}
+
+.tab-nav li a{
+	font-size: 20px;
+	line-height: 38px;
+	
+}
+
+#bottomarea{
+	margin:25px 30px;
+	
+}
+
+#bottomarea tr{
+	height: 54px;
+	border: 1px solid #E6E6E6;
+	display: block;
+}
+
+#bottomarea tr:nth-child(2){
+	border-top: none;
+}
+
+
+.input-first-td{
+	font-size: 14px;
+	line-height: 20px;
+	color: #666;
+	width: 72px;
+	padding: 16px 0 16px 20px;
+	display: inline-block;
+}
+
+.input-second-td{
+	width: 150px;
+	height: 28px;
+	line-height: 28px;
+	padding: 5px 0;
+	display: inline-block;
+}
+
+.input-second-td input{
+	width: 220px;
+}
+
+#bottomarea .no-border{
+	border:none;
+}
+
+.no-border td:nth-child(1){
+	width: 100px;
+	font-size: 12px;
+	color: #999;
+}
+
+.forgetpass p{
+	font-size: 12px;
+	color: #06C;
+	margin-left: 174px;
+}
+
+.forgetpass p:hover{
+	color: #00a53c;
+	cursor: pointer;
+}
+
+#lasttr ,#lasttr td{
+	border:none;
+}
+
+#btn{
+	width: 348px;
+	height: 42px;
+	background: #f32613;
+	font-size: 16px;
+	color: #fff;
+	text-align: center;
+	border-radius: 3px;
+	margin-left: 10px;
+}
+
+#friendlogo{
+	margin-left: 14px;
+}
+
+#friendlogo h4{
+	font-size: 12px;
+	line-height: 20px;
+	color: #333;
+	font-weight: 600;
+	height: 20px;
+	margin: 10px 0;
+	position: relative;
+}
+
+#friendlogo a{
+	width: 64px;
+	height: 32px;
+	font-size: 12px;
+	color:#aaa;
+	line-height: 32px;
+	margin-right: 16px;
+}
+
+#friendlogo a:nth-child(2) span{
+	display: inline-block;
+	position: absolute;
+	top:342px;
+	left: 100px;
+}
+
+
+#friendlogo a:nth-child(3) span{
+	display: inline-block;
+	position: absolute;
+	top:342px;
+	left: 155px;
+}
+
+#friendlogo a i{
+	width: 32px;
+	height: 32px;
+	display: inline-block;
+}
+
+
+
+#friendlogo a:nth-child(2) i{
+	background: url(../images/jingling/login_pic.png) no-repeat 0px 0px;
+}
+
+#friendlogo a:nth-child(2) i:hover{
+	background: url(../images/jingling/login_pic.png) no-repeat -96px 0px;
+}
+
+#friendlogo a:nth-child(3) i{
+	background: url(../images/jingling/login_pic.png) no-repeat -64px 0px;
+}
+
+#friendlogo a:nth-child(3) i:hover{
+	background: url(../images/jingling/login_pic.png) no-repeat -160px 0px;
+}
+
+
+#friendlogo a:nth-child(2):hover {
+	color: #3eb6e8;
+}
+
+#friendlogo a:nth-child(3):hover {
+	color: #00a53c;
+}
+
+
+
+
+/************************zhucearea end***********************************/
+
+
+
+#list{
+	height: 63px;
+	margin-top: 10px;
+	border-top: 1px solid #f5f5f5;
+	background: #fff;
+}
+
+#list .list-left{
+	
+/*	width: 400px;
+*/	height: 34px;
+	float: left;
+	margin-top: 18px;
+}
+
+#list .list-left img{
+/*	display: inline-block;
+*/
+	float: left;
+	margin-right: 10px;
+}
+
+
+#list .list-right{
+	float: left;
+	margin-top: 18px;
+	overflow: hidden;
+}
+
+#nav ul li{
+	float: left;
+}
+
+#nav ul li a{
+	font-size: 10px;
+	display: block;
+	padding: 0 18px;
+	border-right: 1px solid #b9e9e9;
+	border-left: 1px solid #b9621b;
+	color: #666;
+	float:left;
+	
+}
+
+#bottom p{
+	font-size: 13px;
+	padding-left: 18px;
+	color: #666;
+
+}
+
+
+
+

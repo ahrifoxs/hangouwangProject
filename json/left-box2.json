@@ -1,0 +1,140 @@
+[	{
+		"leftBox":[
+			{
+				"id":1,
+				"title":"翠冠梨8个装 约5斤",
+				"price":21.75,
+				"priced":30,
+				"img":"images/05530205615445036.jpg",
+				"unit":"￥"
+			},
+			{
+				"id":2,
+				"title":"广西小台农鸡蛋芒果新鲜热带水果香芒果8斤",
+				"price":25,
+				"priced":30,
+				"img":"images/05536222414652142.jpg",
+				"unit":"￥"
+			}
+		
+		],
+		
+		"centerBox":[
+			{
+				"id":3,
+				"title":"两米公社，吃好米来航购网",
+				"price":25,
+				"priced":30,
+				"img":"images/05536223644403766.jpg",
+				"unit":"￥"
+			},
+			{
+				"id":4,
+				"title":"高山红皮土豆",
+				"price":25,
+				"priced":30,
+				"img":"images/05542299949077785.jpg",
+				"unit":"￥"
+			},
+			{
+				"id":5,
+				"title":"百斗福 刀削面 1400g*2袋",
+				"price":26,
+				"priced":30,
+				"img":"images/05542301089034394.jpg",
+				"unit":"￥"
+			},
+			{
+				"id":6,
+				"title":"中粮初萃杂粮礼盒3200g",
+				"price":26,
+				"priced":30,
+				"img":"images/05542301089034394.jpg",
+				"unit":"￥"
+			}
+			
+		],
+		
+		"rightBox":[
+			{
+				"id":7,
+				"title":"高山精制红薯粉条粉丝400g*2袋",
+				"price":26,
+				"priced":30,
+				"img":"images/05542298100444469.jpg",
+				"unit":"￥"
+			},
+			{
+				"id":8,
+				"title":"襄梦牌 手工山药片180g 番茄味",
+				"price":26,
+				"priced":30,
+				"img":"images/05542298715709387.jpg",
+				"unit":"￥"
+			}
+		]
+
+
+	},
+	
+	{
+		"hotsell":[
+			{
+				"id":9,
+				"title":"谷丰源酸梅膏 1.38kg*2 两瓶装",
+				"price":26,
+				"priced":30,
+				"img":"images/web-615-629-3.jpg",
+				"unit":"￥"
+			},
+			{
+				"id":10,
+				"title":"谷丰源酸梅膏",
+				"price":26,
+				"priced":30,
+				"img":"images/web-615-629-1.jpg",
+				"unit":"￥"
+			},
+			{
+				"id":11,
+				"title":"农谷鲜 特产稻香长粒大米10斤",
+				"price":26,
+				"priced":30,
+				"img":"images/web-615-629-2.jpg",
+				"unit":"￥"
+			}
+		]
+	},
+	
+	{
+		
+		"specialty":[
+			{
+				"id":12,
+				"title":"大汉口 正宗原味武汉热干面8连包 干拌面920g",
+				"price":26,
+				"priced":30,
+				"img":"images/web-616-633-1.jpg",
+				"unit":"￥"
+			},
+			{
+				"id":13,
+				"title":"神农架海拔1000米野生岩蜜630g 原生态好蜂蜜",
+				"price":26,
+				"priced":30,
+				"img":"images/web-616-633-2.jpg",
+				"unit":"￥"
+			},
+			{
+				"id":14,
+				"title":"大朵银耳 新鲜干货 无硫磺雪耳100g",
+				"price":26,
+				"priced":30,
+				"img":"images/web-616-633-3.jpg",
+				"unit":"￥"
+			}
+		]
+	}
+	
+	
+]

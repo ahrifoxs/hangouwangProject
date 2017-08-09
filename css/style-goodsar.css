@@ -1,0 +1,617 @@
+
+
+html,body{
+	width: 100%;
+	
+	
+}
+
+#main{
+	width: 1200px;
+	margin: 0 auto;
+	background: #fefefe
+	overflow: hidden;
+	
+}
+/********************************top********************************/
+#top{
+	height: 30px;
+	background: #fafafa;
+	color: #777;
+	line-height: 30px;
+	border-bottom: 1px solid #f0f0f0;  
+}
+#top div{
+	float: left;
+}
+
+#top-left a{
+	color: #333;
+	display: inline-block;
+	margin-left: 10px;
+	
+}
+
+#top-left a:nth-child(2):hover , #top-left a:nth-child(3):hover{  
+	color: green;
+}
+
+#list{
+	margin-left:545px;
+}
+
+.ico_shop{
+	width: 13px;
+	height: 18px;
+	display: inline-block;
+}
+
+#list li:nth-child(1) i{
+	background: url(../images/jingling/top_ico.png) no-repeat -15px -9px;
+}
+
+#list li:nth-child(1) i:hover{
+	background: url(../images/jingling/top_ico.png) no-repeat -15px -25px;
+}
+
+#list li:nth-child(2) i{
+	background: url(../images/jingling/top_ico.png) no-repeat -30px -9px;
+}
+
+#list li:nth-child(2) i:hover{
+	background: url(../images/jingling/top_ico.png) no-repeat -30px -25px;
+}
+
+#list li:nth-child(3) i{
+	background: url(../images/jingling/top_ico.png) no-repeat -75px -9px;
+}
+
+#list li:nth-child(3) i:hover{
+	background: url(../images/jingling/top_ico.png) no-repeat -75px -25px;
+}
+
+#list li:nth-child(4) i{
+	background: url(../images/jingling/top_ico.png) no-repeat -60px -9px;
+}
+
+#list li:nth-child(4) i:hover{
+	background: url(../images/jingling/top_ico.png) no-repeat -60px -25px;
+}
+
+#list li:nth-child(5) i{
+	background: url(../images/jingling/top_ico.png) no-repeat -15px -9px;
+}
+
+#list li:nth-child(5) i:hover{
+	background: url(../images/jingling/top_ico.png) no-repeat -15px -25px;
+}
+
+#list li{
+	float: left;
+	margin-left: 10px;
+}
+
+.seclectlist{
+	text-align: center;
+	position: absolute;
+	z-index: 3;
+	background: white;
+	display: none;
+}
+
+#seclectlist1 ul{
+	border: 1px solid #e6e6e6;
+	border-top: none;
+	
+}
+
+#seclectlist1 ul li{
+	width: 66px;
+	height: 26px;
+	float: none;
+	padding: 0;
+	margin: 0;
+}
+
+#seclectlist1 ul li a{
+	width: 66px;
+	height: 26px;
+	display: block;
+	line-height: 22px;
+	text-align: center;
+}
+
+#seclectlist1 ul li :hover{
+	background: #E6E6E6;
+}
+
+.seclectlist p{
+	line-height: 18px;
+	color: #F98016;
+	text-align: center;
+	margin: 5px 0 5px 0;
+	font-size: 12px;
+}
+
+.seclectlist img{
+	width: 76px;
+	height: 76px;
+	margin: 3px;
+}
+
+/********************************logoarea********************************/
+
+#logoarea{
+	height: 136px;
+	position: relative;
+	background: white;
+	border-bottom: 1px solid #f5f5f5;
+}
+
+#logoarea div{
+	float: left;
+}
+
+#logo{
+	width: 248px;
+	height: 84px;
+	background: url(../images/05264938636616549.jpg) no-repeat;
+	margin-top: 36px;
+}
+
+#logo a{
+	display: block;
+	text-indent: -50000px;
+}
+
+#search{
+	width: 438px;
+	height: 40px;
+	border: 1px solid #999;
+	margin:50px 0 0 94px;
+	
+}
+
+#search input{
+	outline: none;
+	border: 0;
+	float: left;
+}
+
+#text{
+	width: 378px;
+	height: 38px;
+	padding-left: 12px;
+}
+
+#btn{
+	width: 40px;
+	height: 38px;
+	background: url(../images/icon/search-icon.png) no-repeat 4px center;
+	cursor: pointer;
+}
+
+#logoarealist{
+	width: 440px;
+	height: 28px;
+	float: left;
+	position: relative;
+	left: 94px;
+}
+
+#logoarealist li{
+	float: left;
+	line-height: 28px;
+}
+#logoarealist li a {
+	color: #333;
+	float: left; 
+	display: block;
+	padding-right: 11px;
+	
+	
+}
+
+#advantage{
+	width: 150px;
+	height: 80px;
+	padding: 40px 0 0 268px;
+}
+
+#advantage ul li{
+	background: url(../images/icon/checked-icon.png) no-repeat left center;
+	padding-left: 32px;
+	color: #666;
+}
+/********************************tall********************************/
+#tall{
+	height: 70px;
+	border-bottom: 1px solid #f5f5f5;
+	padding: 20px 0 0 20px;
+	overflow: hidden;
+}
+
+#tall h2{
+	font-size: 34px;
+	color: #555;
+	margin: 0 20px ;
+	
+}
+
+#tall p{
+	font: 12px/40px arial,"microsoft yahei";
+	color: #AAA;
+	margin-left: 20px;
+
+}
+
+.area{
+	min-height:100px;
+	
+	
+}
+
+
+
+
+.ncc-head-layout{
+	display: block;
+	width: 1200px;
+	height: 40px;
+	margin: 0 auto;
+	overflow: hidden;
+	text-align: center;
+}
+
+.ncc-head-layout tr{
+	width: 1200px;
+	height: 40px;
+}
+
+.ncc-head-layout .firstTr th{
+	height: 20px;
+	padding: 10px;
+	text-align: center;
+	line-height: 20px;
+	font-size: 12px;
+	color: #666;
+	
+}
+
+.ncc-head-layout .firstTr th:nth-child(1){
+	width: 50px;
+}
+
+.ncc-head-layout .firstTr th:nth-child(2){
+	width: 100px;
+}
+
+.ncc-head-layout .firstTr th:nth-child(3){
+	width: 430px;
+}
+
+.ncc-head-layout .firstTr th:nth-child(4){
+	width: 150px;
+}
+
+.ncc-head-layout .firstTr th:nth-child(5){
+	width: 100px;
+}
+
+.ncc-head-layout .firstTr th:nth-child(6){
+	width: 150px;
+}
+
+.ncc-head-layout .firstTr th:nth-child(7){
+	width: 80px;
+	text-align: left;
+	
+}
+
+.secondTr{
+	width: 1200px;
+	height: 57px;
+}
+
+.secondTr th{
+	width: 1180px;
+	height: 26px;
+	padding: 20px 10px 10px;
+	font-size: 12px;
+	line-height: 20px;
+	color: #333;
+	height: 20px;
+	text-align: left;
+
+}
+
+
+
+.threeTr {
+	width: 1200px;
+	height: 99px;
+	display: block;
+	border-top: solid 1px #DDD;	
+}
+
+/*.threeTr input{
+	display: inline-block;
+}*/
+
+.threeTr td{
+	height: 82px;
+	padding: 8px 10px;
+	display: inline-block;
+	text-align: center;
+
+	
+}
+
+.threeTr td:nth-child(1){
+	width: 82px;
+}
+
+
+.threeTr td:nth-child(2){
+	width: 100px;
+}
+
+.threeTr td:nth-child(2) img{
+	width: 80px;
+	height: 80px;
+}
+
+.threeTr td:nth-child(3){
+	width: 360px;
+}
+
+.threeTr td:nth-child(3) span,.threeTr td:nth-child(4) span{
+	display: block;
+}
+
+.threeTr td:nth-child(4){
+	width: 170px;
+	color:#333;
+	font-size: 16px;
+}
+
+.threeTr td:nth-child(5){
+	width: 100px;
+}
+
+.threeTr td:nth-child(5) input{
+	text-align: center;
+}
+
+.threeTr td:nth-child(5) input:nth-child(2){
+	width: 30px;
+}
+
+.threeTr td:nth-child(5) input{
+	display: inline-block;
+	
+}
+
+.threeTr td:nth-child(6){
+	width: 130px;
+	color: red;
+	font-size: 16px;
+}
+
+.threeTr td:nth-child(7){
+	width: 60px;
+	text-align: left;
+}
+
+
+.fourTr{
+	width: 1200px;
+	background: #FAFAFA;
+    text-align: right;
+    height: 40px;
+    padding: 0;
+
+
+}
+
+.fourTr td {
+	color: #333;
+	vertical-align: top;
+	display: inline-block;
+	height: 40px;
+	margin-right: 10px;
+	position: relative;
+}
+
+.fourTr td i {
+	margin-right: 110px;
+}
+
+.fourTr td i em{
+	font-size: 22px;
+	line-height: 40px;
+	font-family: Tahoma,arial;
+	color: #F32613;
+	margin: 0 4px;
+	
+
+}
+
+.fourTr td span{
+	width: 100px;
+	height: 42px;
+	display: block;
+	background-color: #F32613;
+	cursor: pointer;
+	position: absolute;
+	top: 0px;
+	right: -10px;
+	text-align: center;
+	line-height: 42px;
+	color: white;
+	font-size: 20px;
+}
+
+
+
+/*#title ul{
+	background:red;
+}
+#title ul li{
+	float: left;
+	width: 168px;
+	padding: 8px 5px;
+	text-align: center;
+	
+}
+
+#title ul:nth-child(2) li{
+	text-align: left;
+}
+
+
+#xinxi li {
+	width: 120px;
+	height:82px;
+	padding: 8px 0;
+}
+
+#xinxi img{
+	width: 80px;
+	height: 80px;
+	
+	
+}*/
+
+
+
+
+
+
+
+/********************************serve********************************/  
+
+#serve{
+	height: 190px;
+	background: #313131;
+	padding:30px 0 0 75px;
+}
+
+
+
+.clearfix li{
+	width: 161px;
+	color: white;
+	float: left;
+	border-right: 1px solid #999999;
+	line-height: 24px;
+	padding-left: 25px;
+	min-height: 150px;
+	
+}
+
+.clearfix li dt{
+	font-size: 18px;
+	margin-bottom: 5px
+}
+
+.clearfix li dd a{
+	color: #fff;
+	font-size: 12px;
+
+}
+
+/********************************fried link********************************/
+#friedlink{
+	height: 80px;
+	background: #1b1b1b;
+	padding-left: 338px;
+	overflow: hidden;
+	
+}
+
+
+#friedlink ul{
+	margin-top: 22px  ;
+	
+}
+
+#friedlink li{
+	float: left;
+}
+
+#friedlink li a{
+	display: block;
+	padding: 0 18px;
+	border-right: 1px solid #b9e9e9;
+	border-left: 1px solid #b9621b;
+	color: #fff;
+	float:left;
+	
+}
+
+#friedlink p{
+	color: #fff;
+	line-height: 24px;
+	margin-left: 68px;
+	margin-top: 5px;
+}
+
+/********************************footer********************************/
+
+#footer{
+	height: 95px;
+	background: #f5f7f8;
+	padding-top: 25px;
+}
+
+#footer ul{
+	margin-left: 382px;
+}
+
+#footer ul li{
+	float: left;
+	padding: 0 14px;
+}
+
+#footer ul li:nth-child(1){
+	padding-top: 25px;
+}
+
+#footer ul li:nth-child(4){
+	padding-top: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

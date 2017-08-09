@@ -1,0 +1,36 @@
+
+[
+	{
+		"id":10,
+		"title":"谷丰源酸梅膏 1.38kg*2 两瓶装",
+		"price":26,
+		"priced":30,
+		"img":"images/web-615-629-3.jpg",
+		"unit":"￥",
+		"strong":"口味：原味/桂花   两种口味随机发货！",
+		"pingLun":"1"
+		
+	},
+	{
+		"id":11,
+		"title":"谷丰源酸梅膏",
+		"price":37,
+		"priced":30,
+		"img":"images/web-615-629-1.jpg",
+		"unit":"￥",
+		"strong":"好吃的酸梅膏",
+		"pingLun":"3"
+
+	},
+	{
+		"id":12,
+		"title":"农谷鲜 特产稻香长粒大米10斤",
+		"price":87,
+		"priced":30,
+		"img":"images/web-615-629-2.jpg",
+		"unit":"￥",
+		"strong":"原生态无公害非转基因大米",
+		"pingLun":"6"
+	}
+]
+
